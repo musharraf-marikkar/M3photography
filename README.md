@@ -10,7 +10,7 @@ The chosen theme for this portfolio webpage is a clean and elegant design with a
 
 In addition to the basic sections commonly found in portfolio webpages, I have implemented some additional features to enhance the overall functionality and aesthetics:
 
-        Slider: The webpage features an image slider that automatically cycles through a set of images. It adds visual interest and allows the user to showcase multiple project images or photographs.
+    Slider: The webpage features an image slider that automatically cycles through a set of images. It adds visual interest and allows the user to showcase multiple project images or photographs.
 
     Toggle Button: The "Show More" button provides a way to reveal additional information or content when clicked. It helps to keep the initial design clean and concise while allowing users to access more details if desired.
 
