@@ -8,11 +8,15 @@ The chosen theme for this portfolio webpage is a clean and elegant design with a
 
 # Technologies Used
 
-HTML
-CSS
-JavaScript
-PHP
-MySQL (Database)
+HTML: Provides the structure and layout of the web pages, including sections, headings, images, and forms.
+
+CSS: Styles the website's appearance, including colors, fonts, spacing, and responsiveness.
+
+JavaScript: Enhances user interactivity and dynamic behavior, such as the image slider and the "Show More" button.
+
+PHP: Handles server-side scripting, including database connections and form submissions for the Contact section.
+
+MySQL (Database): Stores and manages data, such as user submissions and achievements.
 
 # Additional Features
 
