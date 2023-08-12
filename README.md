@@ -16,7 +16,7 @@ JavaScript: Enhances user interactivity and dynamic behavior, such as the image 
 
 PHP: Handles server-side scripting, including database connections and form submissions for the Contact section.
 
-MySQL (Database): Stores and manages data, such as user submissions and achievements.
+MySQL (Database): Stores and manages data, such as user submissions and achievements. Implemented the database using WAMPServer.
 
 # Additional Features
 
