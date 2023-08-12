@@ -6,6 +6,13 @@ This is my personal portfolio webpage showcasing my photography work, skills, an
 
 The chosen theme for this portfolio webpage is a clean and elegant design with a subtle color scheme. The background color is a warm tone (#f4eee0) that creates a comfortable and inviting atmosphere. The text color (#393646) ensures good readability and contrast. The selected fonts from Google Fonts (Open Sans, Montserrat, Lato, Raleway, Roboto) add a touch of sophistication and readability to the content.
 
+# Technologies Used
+
+HTML
+CSS
+JavaScript
+PHP
+MySQL (Database)
 # Additional Features
 
 In addition to the basic sections commonly found in portfolio webpages, I have implemented some additional features to enhance the overall functionality and aesthetics:
