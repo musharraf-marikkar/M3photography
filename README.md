@@ -13,6 +13,7 @@ CSS
 JavaScript
 PHP
 MySQL (Database)
+
 # Additional Features
 
 In addition to the basic sections commonly found in portfolio webpages, I have implemented some additional features to enhance the overall functionality and aesthetics:
